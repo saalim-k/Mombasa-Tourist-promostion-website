@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Images/Agoda.png</ImageUrl>
+		<Height>310px</Height>
+		<Width>350px</Width>
+		<NavigateUrl>https://www.tripadvisor.com.my/Tourism-g294210-Mombasa_Coast_Province-Vacations.html</NavigateUrl>
+		<AlternateText> Agoda </AlternateText>
+		<Impressions> 30 </Impressions >
+		<Keyword> Agoda </Keyword >
+	</Ad>
+	<Ad>
+		<ImageUrl>Images/Airbnb.jpg</ImageUrl>
+		<Height>310px</Height>
+		<Width>350px</Width>
+		<NavigateUrl>https://www.agoda.com/</NavigateUrl>
+		<AlternateText > Air Bnb </AlternateText>
+		<Impressions > 30 </Impressions >
+		<Keyword > Air Bnb </Keyword >
+	</Ad>
+	<Ad>
+		<ImageUrl>Images/booking.jpg</ImageUrl>
+		<Height>310px</Height>
+		<Width>350px</Width>
+		<NavigateUrl>https://www.booking.com/</NavigateUrl>
+		<AlternateText> Booking.com </AlternateText>
+		<Impressions> 30 </Impressions>
+		<Keyword> Booking.com </Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>Images/tripAdvisor.png</ImageUrl>
+		<Height>310px</Height>
+		<Width>350px</Width>
+		<NavigateUrl>https://www.tripadvisor.com/</NavigateUrl>
+		<AlternateText> TripAdvisor </AlternateText>
+		<Impressions> 30 </Impressions>
+		<Keyword> TripAdvisor </Keyword>
+	</Ad>
+</Advertisements>
